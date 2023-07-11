@@ -1,0 +1,273 @@
+.logo{
+    height:30px;
+    background-color: aqua;
+}
+.nav-bar{
+    height: 30px;
+    background-color: red;
+}
+
+
+.banner{
+    height: 500px;
+    background-color: aquamarine;
+}
+
+.banner-content{
+    background-color:red;
+    height: 80px;
+
+}
+
+.mt-4 {
+    margin-top: 4 !important;
+  }
+
+  .designs{
+    background-color: blue;
+    height: 200px;
+    width:230px
+  }
+
+ .mt-5{
+    margin-top: 5 !important;
+ } 
+ .mt-3{
+    margin-top: 3 !important;
+ } 
+
+ .mb-5{
+    margin-bottom: 5 !important;
+ }
+
+ .ml-5{
+    margin-left: 5 !important;
+ }
+
+ .review{
+    background-color: orange;
+    height: 700px;
+ }
+
+ .center{
+    height: 50px;
+    background-color: red;
+    
+ }
+
+ .about-us{
+    background-color: brown;
+    height: 400px;
+ }
+
+ /* .space{
+    margin-top: 50px;
+ } */
+
+.sec{
+    background-color: blueviolet;
+    height: 300px;
+}
+.bar{
+    background-color: lightgray;
+    height: 200px;
+}
+.bar-1{
+    background-color: rgb(116, 25, 25);
+    height: 200px;
+}
+ 
+
+ .number-1{
+    height: 150px;
+    background-color:yellow;
+ }
+ .number-2{
+    height: 150px;
+    background-color:rgb(149, 17, 173);
+ }
+ .number-3{
+    height: 150px;
+    background-color:rgb(255, 25, 0);
+ }
+ .number-4{
+    height: 150px;
+    background-color:rgb(53, 143, 164);
+ }
+
+ .brands{
+    height: 200px;
+    background-color: chartreuse;
+   
+ }
+ .company{
+    height: 80px;
+    background-color: gray;
+ }
+
+ .choice{
+    height: 300px;
+    background-color: chocolate;
+ }
+
+ .cust-image{
+    height: 50px;
+    background-color: coral;
+
+ }
+ .cust-review{
+    height: 50px;
+    background-color: darkolivegreen;
+ }
+ .customers{
+    height: 250px;
+    background-color: crimson;
+ }
+
+ .port-menu{
+    height: 200px;
+    background-color: darkgoldenrod;
+    width:200px
+ }
+
+
+ .pic-1{
+    height: 400px;
+    background-color: aquamarine;
+ }
+ .pic-2{
+    height: 250px;
+    background-color: dodgerblue;
+ }
+ .pic-3{
+    height: 200px;
+    background-color: rgb(129, 8, 156);
+ }
+ .pic-4{
+    height: 500px;
+    background-color: rgb(75, 44, 129);
+ }
+
+ .pic-5{
+    height: 530px;
+    background-color: darkred;
+ }
+
+ .pic-6{
+    height: 200px;
+    background-color: rgb(237, 230, 23);
+ }
+ .pic-7{
+    height: 200px;
+    background-color: rgb(107, 122, 150);
+ }
+ .pic-8{
+    height: 200px;
+    background-color: rgb(204, 156, 89);
+ }
+ .pic-9{
+    height: 200px;
+    background-color: rgb(164, 68, 102);
+ }
+
+ .team{
+    background-color: lightgray;
+    height: 600px;
+ }
+
+ .team-member-1{
+    height: 300px;
+    background-color: darkkhaki;
+ }
+ .team-member-2{
+    height: 300px;
+    background-color:orangered;
+ }
+ .team-member-3{
+    height: 300px;
+    background-color: pink;
+ }
+ .team-member-4{
+    height: 300px;
+    background-color: red;
+ }
+ .team-member-5{
+    height: 300px;
+    background-color: rgb(189, 107, 107);
+ }
+ .team-member-6{
+    height: 300px;
+    background-color:rgb(38, 187, 92);
+ }
+ .team-member-7{
+    height: 300px;
+    background-color: rgb(43, 12, 86);
+ }
+ .team-member-8{
+    height: 300px;
+    background-color: rgb(183, 90, 25);
+ }
+ .faq{
+    height: 600px;
+    background-color: gray
+ }
+
+ .questions{
+    height: 300px;
+    background-color: darkmagenta;
+ }
+
+ .contact{
+    height: 100px;
+    background-color: darkorange;
+ }
+ .map{
+    height: 300px;
+    background-color: darkslategray;
+ }
+ .contact-us{
+    background-color: white;
+ }
+
+ .news{
+    height: 200px;
+    background-color: darkcyan;
+ }
+ .news-heading{
+    height: 50px;
+    width: 700px;
+    background-color: aquamarine;
+ }
+
+ /* .useful-links{
+    height: 300px;
+    background-color: greenyellow;
+ } */
+
+ .link1{
+    height: 300px;
+    background-color: greenyellow;
+ }
+ .link2{
+    height: 300px;
+    background-color: rgb(255, 47, 172);
+ }
+ .link3{
+    height: 300px;
+    background-color: blue;
+ }
+ .link4{
+    height: 300px;
+    background-color: brown;
+ }
+ 
+
+
+ .copyright{
+    height: 70px;
+    background-color: lightsalmon;
+ }
+ .end{
+    background-color: lightgray;
+    height: 100px;
+ }
